@@ -1,0 +1,6 @@
+{
+  "name": "Grade 6 Student Portfolio",
+  "description": "A clean, bright personal portfolio website for a Grade 6 student showcasing school projects, STEM creations, skills, and contact info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
